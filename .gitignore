@@ -1,0 +1,16 @@
+# Node.js
+Backend/node_modules/
+Backend/.env
+
+# Android Studio
+AndroidApp/.gradle/
+AndroidApp/build/
+AndroidApp/.idea/
+AndroidApp/local.properties
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
